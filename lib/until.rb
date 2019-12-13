@@ -5,5 +5,3 @@ def using_until
     leviation_force+=1
   end#your code here
 end
-
-using_until
